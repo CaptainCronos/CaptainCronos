@@ -1,10 +1,39 @@
-- 👋 Hi, I’m CaptainCronos.
-- 👀 I’m interesting in beekeeping.
-- 🌱 I’m currently learning beekeeping
-- 💞️ I’m looking to collaborate on beekeeping
-- 📫 How to reach me? At the apiary.
+# Captain Cronos
 
-<!---
-CaptainCronos/CaptainCronos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Diesel Technology Instructor | Linux Enthusiast | Systems Builder | Bitcoin Node Operator
+
+Welcome to my GitHub.
+
+This repository is the home of the **Captain Cronos Project**—a collection of tools, documentation, and projects focused on building reliable, repeatable, and well-documented technical systems.
+
+## Current Projects
+
+* 🐧 Captain Cronos Shell Toolkit
+* 💾 Ventoy Technician Rescue USB
+* 💻 Dell Service Repository
+* 🖥️ Ubuntu Workstation Engineering
+* 🗄️ TrueNAS Home Server
+* ₿ Bitcoin Full Node Infrastructure
+* 🎓 Heavy-Duty Diesel Instruction Resources
+
+## Areas of Interest
+
+* Linux System Administration
+* Bash Scripting & Automation
+* Data Backup & Recovery
+* Storage & NAS
+* Networking
+* Hardware Diagnostics
+* Technical Documentation
+* Heavy-Duty Diesel Technology
+
+## Current Goals
+
+* Build a standardized Linux technician environment
+* Develop a reusable rescue and recovery toolkit
+* Create a custom Ubuntu Technician Edition
+* Document repeatable deployment and recovery procedures
+
+---
+
+> "Build it once. Improve it forever."
